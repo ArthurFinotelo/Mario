@@ -31,9 +31,9 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 - Você instalou a versão mais recente de `<HTML, CSS e JS>`.
 - Você tem uma máquina `<Windows / Linux / Mac>`.
 
-## 📫 Contribuindo para <nome_do_projeto>
+## 📫 Contribuindo para Mario-Brothers
 
-Para contribuir com <nome_do_projeto>, siga estas etapas:
+Para contribuir com Mario-Brothers, siga estas etapas:
 
 1. Bifurque este repositório.
 2. Crie um branch: `git checkout -b <nome_branch>`.
